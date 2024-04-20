@@ -7,16 +7,16 @@ File APD_Detection.ipynb adalah notebook Jupyter yang berisi kode untuk melatih 
 ## Evaluasi Kinerja Model
 
 Kinerja model deteksi APD dievaluasi menggunakan metrik-metrik berikut:
-[Model Evaluasi](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/model%20evaluasi.png)
+![Model Evaluasi](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/model%20evaluasi.png)
 
 ## Dataset
 
-Dataset yang digunakan untuk pelatihan dan evaluasi model dapat ditemukan [di](https://universe.roboflow.com/project-uyrxf/ppe_detection-v1x3l/dataset/1)
+Dataset yang digunakan untuk pelatihan dan evaluasi model dapat ditemukan [di sini](https://universe.roboflow.com/project-uyrxf/ppe_detection-v1x3l/dataset/1).
 
-[Gambar training](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/dataset.png)
+![Gambar training](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/dataset.png)
 
 ## Hasil Prediksi
 
-- [Gambar uji](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_image1.png)
-- [Video uji 1](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_video1.mp4)
-- [Video uji 2](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_video2.mp4)
+- ![Gambar uji](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_image1.png)
+- ![Video uji 1](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_video1.mp4)
+- ![Video uji 2](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_video2.mp4)
