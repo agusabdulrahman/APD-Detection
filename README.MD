@@ -19,5 +19,6 @@ Dataset yang digunakan untuk pelatihan dan evaluasi model dapat ditemukan [di si
 
 - [Prediksi Video uji 1](https://drive.google.com/file/d/1DORQTeFQ1pWzCz84ESZG1dhQyRO13Ovn/view?usp=sharing)
 - [Prediksi Video uji 2](https://drive.google.com/file/d/1DORQTeFQ1pWzCz84ESZG1dhQyRO13Ovn/view?usp=sharing)
-- Prediksi Gambar
+- Prediksi Gambar:
+
 ![Gambar uji](https://github.com/agusabdulrahman/APD-Detection/blob/master/result_prediction/test_image1.png)
